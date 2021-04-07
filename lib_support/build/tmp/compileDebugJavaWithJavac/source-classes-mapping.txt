@@ -1,0 +1,18 @@
+com/icube/android/examples/medclassification/tflite/ClassifierQuantizedMobileNet.java
+ com.icube.android.examples.medclassification.tflite.ClassifierQuantizedMobileNet
+com/icube/android/examples/medclassification/tflite/Detector.java
+ com.icube.android.examples.medclassification.tflite.Detector
+ com.icube.android.examples.medclassification.tflite.Detector$Recognition
+com/icube/android/examples/medclassification/tflite/Classifier.java
+ com.icube.android.examples.medclassification.tflite.Classifier
+ com.icube.android.examples.medclassification.tflite.Classifier$1
+ com.icube.android.examples.medclassification.tflite.Classifier$2
+ com.icube.android.examples.medclassification.tflite.Classifier$Device
+ com.icube.android.examples.medclassification.tflite.Classifier$Model
+ com.icube.android.examples.medclassification.tflite.Classifier$Recognition
+org/tensorflow/lite/examples/medclassification/tflite/BuildConfig.java
+ org.tensorflow.lite.examples.medclassification.tflite.BuildConfig
+com/icube/android/examples/medclassification/tflite/TFLiteObjectDetectionAPIModel.java
+ com.icube.android.examples.medclassification.tflite.TFLiteObjectDetectionAPIModel
+com/icube/android/examples/medclassification/tflite/ClassifierFloatMobileNet.java
+ com.icube.android.examples.medclassification.tflite.ClassifierFloatMobileNet
