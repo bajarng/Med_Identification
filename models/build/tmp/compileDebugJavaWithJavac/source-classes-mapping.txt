@@ -1,0 +1,2 @@
+org/tensorflow/lite/examples/medclassification/models/BuildConfig.java
+ org.tensorflow.lite.examples.medclassification.models.BuildConfig
